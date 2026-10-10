@@ -2,7 +2,7 @@
   "name": "lynkgrids",
   "displayName": "Lynkgrids",
   "version": "0.1.1",
-  "description": "LinkedIn prospecting and outreach from your chat: find leads by ideal customer, check your connections, enrich contacts, run connection-plus-follow-up campaigns, and triage replies in the Lynkgrids CRM.",
+  "description": "Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers. From chat: find leads by ideal customer, check your connections, enrich contacts, run connection-plus-follow-up campaigns, and handle replies.",
   "author": {
     "name": "Lynkgrids",
     "email": "support@lynkgrids.com",
@@ -20,8 +20,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Lynkgrids",
-    "shortDescription": "LinkedIn prospecting, outreach and a CRM, run from chat.",
-    "longDescription": "Lynkgrids finds the people you sell to on LinkedIn, keeps them in a CRM, and runs the outreach: a connection request, then follow-ups, paced to keep the account safe. From chat you can describe an ideal customer and get leads, score your own connections against it, enrich contacts, launch a campaign on a list, and handle replies.",
+    "shortDescription": "Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers.",
+    "longDescription": "Other tools send the message and leave you to track the relationship. Lynkgrids does both. It runs the LinkedIn outreach and keeps every conversation as a tracked lead. From Claude you can describe your ideal customer and get leads, score your own LinkedIn connections against it and add the fits to a list, enrich contacts from their profiles, launch a campaign on a list, comment on a prospect's latest post, and handle replies. Nothing goes to a real person until you have seen the message and said yes.",
     "developerName": "Lynkgrids",
     "category": "Business & Operations",
     "capabilities": ["Interactive", "Read", "Write"],

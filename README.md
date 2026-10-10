@@ -1,12 +1,13 @@
 # Lynkgrids plugin
 
-**LinkedIn prospecting, outreach and a CRM, run from your chat.**
+**Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers.**
 
-Lynkgrids finds the people you sell to on LinkedIn, keeps them in a CRM, and runs the
-outreach: a connection request, then follow-ups, paced to keep your account safe. This
-plugin brings that into Claude. Describe an ideal customer and get leads, score your own
-connections against it, enrich contacts, launch a campaign on a list, and handle replies,
-without leaving the conversation.
+Other tools send the message and leave you to track the relationship. Lynkgrids does both.
+It runs the LinkedIn outreach, a connection request and then follow-ups paced to keep your
+account safe, and keeps every conversation as a tracked lead. This plugin brings that into
+Claude. Describe your ideal customer and get leads, score your own connections against it,
+enrich contacts, launch a campaign on a list, and handle replies, without leaving the
+conversation.
 
 Works in the Claude app (claude.ai and Claude desktop), Claude Cowork and Claude Code.
 
