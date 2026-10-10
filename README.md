@@ -2,12 +2,12 @@
 
 **Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers.**
 
-Other tools send the message and leave you to track the relationship. Lynkgrids does both.
-It runs the LinkedIn outreach, a connection request and then follow-ups paced to keep your
-account safe, and keeps every conversation as a tracked lead. This plugin brings that into
-Claude. Describe your ideal customer and get leads, score your own connections against it,
-enrich contacts, launch a campaign on a list, and handle replies, without leaving the
-conversation.
+Lynkgrids is a sales engagement CRM for teams that sell on LinkedIn. Other tools get you
+the reply and then drop you. Lynkgrids keeps every conversation as a tracked lead, from
+first hello to closed. This plugin brings that into Claude. Describe your ideal customer
+and get leads, score your own connections against it, enrich contacts, write the messages
+for a list, and handle replies, without leaving the conversation. You see and approve
+every message before it goes to anyone.
 
 Works in the Claude app (claude.ai and Claude desktop), Claude Cowork and Claude Code.
 
@@ -37,7 +37,7 @@ Allow. You need a Lynkgrids workspace with a connected LinkedIn account to searc
 | Find leads | Searches LinkedIn from your ideal customer, Claude ranks the rows, the picks join a list with a fit score and reason | `find_leads`, `import_leads` |
 | Check connections | Scores your 1st-degree connections against an ideal customer and adds the fits to a list | `score_existing_contacts`, `list_connections` |
 | Enrich | Fills headline, experience and company from LinkedIn | `enrich_person` |
-| Outreach | Drafts a connection note and four follow-ups, launches a paced campaign on a list after you confirm | `launch_campaign`, `create_campaign` |
+| Outreach | Drafts a connection note and follow-ups for a list, which you read and approve before anything is sent | `launch_campaign`, `create_campaign` |
 | Engage | Comments on a prospect's latest post, sends one message or connection request | `latest_posts`, `comment_on_post`, `send_linkedin_message` |
 | Replies and reporting | Triages the New Response list, today's plan, campaign progress | `search_people`, `todays_plan`, `campaign_progress` |
 

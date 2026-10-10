@@ -2,7 +2,7 @@
   "name": "lynkgrids",
   "displayName": "Lynkgrids",
   "version": "0.1.1",
-  "description": "Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers. From chat: find leads by ideal customer, check your connections, enrich contacts, run connection-plus-follow-up campaigns, and handle replies.",
+  "description": "Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers. A sales engagement CRM for teams that sell on LinkedIn: find the people you sell to, keep every conversation as a tracked lead, and handle replies, all from chat.",
   "author": {
     "name": "Lynkgrids",
     "email": "support@lynkgrids.com",
@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "Lynkgrids",
     "shortDescription": "Lynkgrids is your LinkedIn CRM, the outreach tool that finally remembers your customers.",
-    "longDescription": "Other tools send the message and leave you to track the relationship. Lynkgrids does both. It runs the LinkedIn outreach and keeps every conversation as a tracked lead. From Claude you can describe your ideal customer and get leads, score your own LinkedIn connections against it and add the fits to a list, enrich contacts from their profiles, launch a campaign on a list, comment on a prospect's latest post, and handle replies. Nothing goes to a real person until you have seen the message and said yes.",
+    "longDescription": "Lynkgrids is a sales engagement CRM for teams that sell on LinkedIn. Other tools get you the reply and then drop you. Lynkgrids keeps every conversation as a tracked lead, from first hello to closed. From Claude you can describe your ideal customer and get leads, score your own connections against it and add the fits to a list, enrich contacts from their profiles, write the messages and follow-ups for a list, comment on a prospect's latest post, and handle replies. You see and approve every message before it goes to anyone.",
     "developerName": "Lynkgrids",
     "category": "Business & Operations",
     "capabilities": ["Interactive", "Read", "Write"],
