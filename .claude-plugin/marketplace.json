@@ -1,0 +1,25 @@
+{
+  "name": "lynkgrids",
+  "metadata": {
+    "description": "Lynkgrids plugins: LinkedIn prospecting, outreach and CRM from chat."
+  },
+  "owner": {
+    "name": "Lynkgrids",
+    "email": "support@lynkgrids.com"
+  },
+  "plugins": [
+    {
+      "name": "lynkgrids",
+      "source": {
+        "source": "github",
+        "repo": "lynkread/lynkgrids-plugin"
+      },
+      "description": "LinkedIn prospecting and outreach from your chat: find leads by ideal customer, check your connections, enrich contacts, run campaigns, and triage replies in the Lynkgrids CRM.",
+      "homepage": "https://www.lynkgrids.com",
+      "repository": "https://github.com/lynkread/lynkgrids-plugin",
+      "license": "MIT",
+      "category": "sales",
+      "keywords": ["linkedin", "prospecting", "outreach", "leads", "sales", "crm", "campaigns"]
+    }
+  ]
+}

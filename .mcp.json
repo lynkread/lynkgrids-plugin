@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lynkgrids": {
+      "type": "http",
+      "url": "https://mcp.lynkgrids.com/mcp"
+    }
+  }
+}

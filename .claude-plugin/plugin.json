@@ -1,0 +1,32 @@
+{
+  "name": "lynkgrids",
+  "version": "0.1.0",
+  "description": "LinkedIn prospecting and outreach from your chat: find leads by ideal customer, check your connections, enrich contacts, run connection-plus-follow-up campaigns, and triage replies in the Lynkgrids CRM.",
+  "author": {
+    "name": "Lynkgrids",
+    "email": "support@lynkgrids.com",
+    "url": "https://www.lynkgrids.com"
+  },
+  "homepage": "https://www.lynkgrids.com",
+  "repository": "https://github.com/lynkread/lynkgrids-plugin",
+  "license": "MIT",
+  "keywords": ["linkedin", "prospecting", "outreach", "leads", "sales", "crm", "campaigns"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Lynkgrids",
+    "shortDescription": "LinkedIn prospecting, outreach and a CRM, run from chat.",
+    "longDescription": "Lynkgrids finds the people you sell to on LinkedIn, keeps them in a CRM, and runs the outreach: a connection request, then follow-ups, paced to keep the account safe. From chat you can describe an ideal customer and get leads, score your own connections against it, enrich contacts, launch a campaign on a list, and handle replies.",
+    "developerName": "Lynkgrids",
+    "category": "Business & Operations",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://www.lynkgrids.com",
+    "privacyPolicyURL": "https://www.lynkgrids.com/legal/privacy-policy.html",
+    "termsOfServiceURL": "https://www.lynkgrids.com/legal/terms-of-service.html",
+    "defaultPrompt": [
+      "Find 50 Heads of Sales at B2B SaaS companies in India and add them to a list.",
+      "Check my LinkedIn connections and put everyone who fits my ideal customer into the list Q4 founders.",
+      "Who replied to my campaigns this week, and draft replies for them."
+    ],
+    "brandColor": "#1F3D2B"
+  }
+}
