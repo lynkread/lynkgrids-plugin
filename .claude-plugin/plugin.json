@@ -1,6 +1,7 @@
 {
   "name": "lynkgrids",
-  "version": "0.1.0",
+  "displayName": "Lynkgrids",
+  "version": "0.1.1",
   "description": "LinkedIn prospecting and outreach from your chat: find leads by ideal customer, check your connections, enrich contacts, run connection-plus-follow-up campaigns, and triage replies in the Lynkgrids CRM.",
   "author": {
     "name": "Lynkgrids",
@@ -11,6 +12,11 @@
   "repository": "https://github.com/lynkread/lynkgrids-plugin",
   "license": "MIT",
   "keywords": ["linkedin", "prospecting", "outreach", "leads", "sales", "crm", "campaigns"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/lynkread/lynkgrids-plugin#readme",
+  "supportUrl": "https://www.lynkgrids.com/contact-us.html",
+  "privacyPolicyUrl": "https://www.lynkgrids.com/legal/privacy-policy.html",
+  "termsOfServiceUrl": "https://www.lynkgrids.com/legal/terms-of-service.html",
   "skills": "./skills/",
   "interface": {
     "displayName": "Lynkgrids",
